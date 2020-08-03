@@ -21,6 +21,7 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnertreguas)](https://www.linkedin.com/in/vagnertreguas)
 
 
+:brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
 <!--
 **Treguas/Treguas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
