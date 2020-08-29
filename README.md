@@ -12,7 +12,7 @@
 
 My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 30 years old, I live in São Paulo, Actually I study Development (Front-End).
 
-- 🌱 I’m currently learning ... JavaScript and <p><em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA).</p>
+- 🌱 I’m currently learning ... JavaScript and <p><em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)>.</p></em>
 
 
 Would you like to find me?
