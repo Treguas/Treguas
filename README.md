@@ -23,6 +23,14 @@ My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 30 years old, I 
 
 
 :brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
+</p>
 <!--
 **Treguas/Treguas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
