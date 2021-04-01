@@ -12,6 +12,10 @@
 
 My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I live in São Paulo, Actually I'm Development (Front-End) at Grupo iv2.
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 - 🌱 I’m currently learning ... TypeScript | Angular 
 - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a></em>
 
