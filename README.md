@@ -10,7 +10,7 @@
 
 ### "Thanks for checking my profile!" 
 
-My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 30 years old, I live in São Paulo, Actually I study Development (Front-End).
+My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I live in São Paulo, Actually I'm Development (Front-End) at Grupo iv2.
 
 - 🌱 I’m currently learning ... TypeScript | Angular 
 - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a></em>
