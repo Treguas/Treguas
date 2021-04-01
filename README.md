@@ -26,12 +26,12 @@ My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vtreguas)](https://twitter.com/vtreguas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnertreguas)](https://www.linkedin.com/in/vagnertreguas)
 
-
-:brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
 <p align='center'>
  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
 </p>
+
+:brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
+
 <!--
 **Treguas/Treguas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
