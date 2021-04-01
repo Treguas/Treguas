@@ -16,6 +16,11 @@ My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<p align='center'>
+ <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
+</p>
+                          
 - 🌱 I’m currently learning ... TypeScript | Angular 
 - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a></em>
 
@@ -27,7 +32,10 @@ My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I 
 
 
 :brain: <a name="id4"></a>*"O melhor momento para ter começado algo era há uns dez anos atrás, o segundo melhor momento é agora."*
+<p align='center'>
+ <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
+</p>
 <!--
 **Treguas/Treguas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
