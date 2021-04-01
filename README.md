@@ -13,10 +13,6 @@
 My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I am 31 years old, I live in São Paulo, Actually I'm Development (Front-End) at Grupo iv2.
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treguas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 </p>
