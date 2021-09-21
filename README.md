@@ -1,6 +1,18 @@
 ### Hi there 👋
-###### Vagner Treguas Here \o/
-### "Thanks for Checking my Profile!" 
+###### Vagner Treguas Here 
+
+
+
+<h1 align='center'>
+  Hi there 👋 I'm Vagner Treguas Here \o/ 👨‍💻
+  ### "Thanks for Checking my Profile!" 
+</h1>
+
+
+
+<p align='center'>
+  on the way of Development FullStack
+</p>
 
 ### 🛠 About me
 <p>
