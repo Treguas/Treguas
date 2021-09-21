@@ -11,12 +11,6 @@
   </em>  
 </p>
 
-### 👥 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/jhollyfer"><img src="https://img.shields.io/badge/-Jhollyfer%20Rodrigues-333333?style=white&logo=linkedin"/></a>
-<a href="https://instagram.com/jhollyferr"><img src="https://img.shields.io/badge/-jhollyferr-333333?style=white&logo=instagram"/></a>
-<a href="mailto:jhollyferr@gmail.com"><img src="https://img.shields.io/badge/-jhollyferr@gmail.com-333333?style=white&logo=gmail"/></a>
-</p>
 
 ### ⚡ Technologies
 
