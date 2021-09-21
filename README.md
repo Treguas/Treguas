@@ -6,9 +6,9 @@
 <p>
   <em>
    My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I live in São Paulo, Actually I'm Development at Grupo iv2.
+  </em>
    - 🌱 I’m currently learning ... Ionic 
-   - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a></em>
-  </em>  
+   - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a>
 </p>
 
 
