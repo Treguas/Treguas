@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###### Vagner Treguas Here \o/
-### "Thanks for checking my profile!" 
+### "Thanks for Checking my Profile!" 
 
 ### 🛠 About me
 <p>
