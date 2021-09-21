@@ -1,11 +1,11 @@
 ### Hi there 👋
-###### Vagner Treguas Here 
+ ##### "Thanks for Checking my Profile!"
 
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Vagner Treguas Here \o/ 👨‍💻
-  ### "Thanks for Checking my Profile!" 
+  I'm Vagner Treguas Here \o/ 👨‍💻
+  
 </h1>
 
 
