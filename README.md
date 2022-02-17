@@ -21,7 +21,7 @@
   </em>
 </p>
 
- - 🌱 I’m currently learning ... Ionic 
+ - 🌱 I’m currently learning ... React 
  - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a>
 
 
