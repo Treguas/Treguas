@@ -29,7 +29,7 @@
 
 These are some of the technologies and tools that I work with:
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,postgres,firebase )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,prisma,postgres,firebase )](https://skillicons.dev)
 
 
 ### 📈 My Stats
