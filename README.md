@@ -21,7 +21,7 @@
   </em>
 </p>
 
- - 🌱 I’m currently learning ... React 
+ - 🌱 I’m currently learning ... React and Nextjs 
  - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a>
 
 
@@ -29,7 +29,7 @@
 
 These are some of the technologies and tools that I work with:
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,prisma,mysql,postgres,firebase )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nextjs,nodejs,prisma,mysql,postgres,firebase )](https://skillicons.dev)
 
 
 ### 📈 My Stats
