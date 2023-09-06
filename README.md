@@ -17,7 +17,6 @@
 ### 🛠 About me
 <p>
   <em>
-   My name is Vagner Treguas, and I'm from Brazil (🇧🇷), I live in São Paulo.
    Olá! Sou Vagner Treguas, um desenvolvedor de software de Jundiaí - São Paulo, Brasil 🇧🇷. Com uma paixão pela tecnologia e sede de conhecimento, estou sempre em busca das soluções mais inovadoras e criativas.
    
    💼 Atualmente, estou contribuindo para o sucesso da equipe de desenvolvimento no Grupo iv2, onde tenho o privilégio de trabalhar em projetos empolgantes e desafiadores. Minha experiência abrange o Front - End e o Backend do universo javascript, frameworks e    tecnologias, permitindo-me abordar problemas complexos com soluções eficazes e escaláveis.
