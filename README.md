@@ -11,7 +11,7 @@
 
 
 <p align='center'>
-  on the way of Development FullStack
+  👨‍💻 Desenvolvedor de Software | 🌐 Apaixonado por Transformar Ideias em Código | 🚀 Buscando Sempre o Próximo Desafio
 </p>
 
 ### 🛠 About me
@@ -26,10 +26,6 @@
 📫 Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração, networking ou apenas para compartilhar experiências no mundo da tecnologia. Estou ansioso para conectar e aprender com outros profissionais apaixonados por software como eu.
   </em>
 </p>
-
- - 🌱 I’m currently learning ... React and Nextjs 
- - 🚀 <em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</a>
-
 
 ### ⚡ Technologies
 
