@@ -1,0 +1,110 @@
+{
+    "emmet.syntaxProfiles" : {
+        "javascript" : "jsx"
+      },
+      "workbench.startupEditor" : "newUntitledFile",
+        "javascript.suggest.autoImports" : true,
+        "editor.rulers" : [
+            80,
+            120
+        ],
+        "extensions.ignoreRecommendations" : true,
+        "typescript.tsserver.log" : "off",
+        "files.associations" : {
+          ".sequelizerc" : "javascript",
+          ".stylelintrc" : "json",
+          "*.tsx" : "typescriptreact",
+          ".env.*" : "dotenv",
+          ".prettierrc" : "json"
+        },
+        "screencastMode.onlyKeyboardShortcuts" : true,
+        "cSpell.userWords" : [
+          "chakra",
+          "IUGU",
+          "middlewares",
+          "mixpanel",
+          "Onboarded",
+          "prefetch",
+          "rocketseat",
+          "upsert"
+        ],
+        "editor.parameterHints.enabled" : false,
+        "editor.renderLineHighlight" : "gutter",
+        "cSpell.language" : "en,pt",
+        "editor.lineHeight" : 24,
+        "material-icon-theme.languages.associations" : {
+          "dotenv" : "tune"
+        },
+        "material-icon-theme.files.associations" : {
+            "tsconfig.json" : "tune",
+            "*.webpack.js" : "webpack",
+            "*.proto" : "3d",
+            "ormconfig.json" : "database"
+        },
+        "material-icon-theme.activeIconPack" : "nest",
+        "editor.suggestSelection" : "first",
+        "explorer.confirmDelete" : false,
+        "gitlens.codeLens.recentChange.enabled" : false,
+        "terminal.integrated.showExitAlert" : false,
+        "typescript.suggest.autoImports" : true,
+        "terminal.integrated.env.osx" : {
+          "FIG_NEW_SESSION": "1"
+        },
+        "workbench.editor.labelFormat" : "short",
+        "emmet.includeLanguages" : {
+          "javascript" : "javascriptreact"
+        },
+      "workbench.iconTheme": "material-icon-theme",
+      "editor.fontFamily": "JetBrains Mono",
+      "editor.fontSize": 13,
+      "editor.fontLigatures": false,
+      "editor.fontWeight": 300,
+      "editor.renderWhitespace": "none",
+      "typescript.updateImportsOnFileMove.enabled": "always",
+      "javascript.updateImportsOnFileMove.enabled": "always",
+      "[javascript]": {
+          "editor.defaultFormatter": "vscode.typescript-language-features"
+      },
+      "terminal.integrated.defaultProfile.windows": "Git Bash",
+      "bracketPairColorizer.depreciation-notice": false,
+      "[html]": {
+          "editor.defaultFormatter": "vscode.html-language-features"
+      },
+      "editor.tabSize": 2,
+    "tabnine.experimentalAutoImports": true,
+      "editor.acceptSuggestionOnEnter": "off",
+      "editor.inlineSuggest.enabled": false,
+      "liveshare.presence": true,
+      "git.suggestSmartCommit": false,
+      "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:command"
+      ],
+      "git.autofetch": true,
+      "editor.accessibilitySupport": "off",
+      "liveServer.settings.donotShowInfoMsg": true,
+      "workbench.editorLargeFileConfirmation": 6144,
+      "files.maxMemoryForLargeFilesMB": 6144,
+      "terminal.integrated.env.windows": {},
+      "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+      },
+      "symbols.hidesExplorerArrows": false,
+      "diffEditor.ignoreTrimWhitespace": false,
+      "workbench.colorTheme": "One Dark Pro Monokai Darker",
+      "explorer.compactFolders": false,
+      "editor.tokenColorCustomizations": {
+        "[One Dark Pro Monokai Darker]": {
+          "textMateRules": [
+            {
+              "scope": "entity.name.tag.html",
+              "settings": {
+                "foreground": "#00aeff"
+              }
+            }
+          ]
+        }
+      },
+  }
